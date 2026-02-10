@@ -75,4 +75,3 @@ This project is useful for students and developers to practice programming and t
 **Piyush Hirudkar** | Full Stack Web Developer  
 
 - [GitHub](https://github.com/Piyushhirudkar)  
-- [LinkedIn](https://www.linkedin.com/in/piyushhirudkar)
